@@ -1,0 +1,12 @@
+¿Que es GIT?
+es un sistema de control que se utiliza principalmente para el desarrollo de sofware
+¿Qué es un pull request?
+es una fucion que se encuentra en los sistemas de control de versiones, que permite a los desarrolladores pues notificar a otros miembros del equipo acerca de un cambio 
+
+¿Qué es un commit?
+pues se refiere al acto de guardar los cambios realizados en un archivo en el repositorio 
+¿GIT y GitHub es lo mismo? Explique
+no son los mismo GIT es un sistema de control de versiones distribuido y que permite a los desarrolladores ver los cambios que se realizan en el codigo fuente GITHUB es una plataforma web que proporciona servicios de alojamiento de repositorio GIT en linea
+¿Qué es scrum?
+es como un marco de trabajo agil para la gestion y desarrollo de un proyecto de sofware
+¿Para qué sirve una metodología ágil de desarrollo?
