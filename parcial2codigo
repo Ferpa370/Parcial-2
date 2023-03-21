@@ -1,0 +1,3 @@
+nombre=("Fernando Alfonso Palacios Galindo")
+carnet=("1643123")
+print("mi nombre es", nombre, "y mi numero de carnet es", carnet)
